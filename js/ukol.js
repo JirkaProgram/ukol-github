@@ -1,0 +1,1 @@
+prompt("Zadejte vaše jméno!");
